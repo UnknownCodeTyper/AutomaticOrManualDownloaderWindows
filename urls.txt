@@ -1,0 +1,2 @@
+https://referrals.brave.com/latest/BraveBrowserSetup.exe
+https://staticcdn.duckduckgo.com/windows-desktop-browser/installer/DuckDuckGo.Installer.exe
