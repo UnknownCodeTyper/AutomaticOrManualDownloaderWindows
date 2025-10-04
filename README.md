@@ -12,8 +12,8 @@ All downloaded files are saved in the DigitalMember_Assistant_Downloads folder, 
 
 Test 1
 
-<img width="1366" height="720" alt="Test1" src="https://github.com/user-attachments/assets/8932a069-f516-4eb6-959f-19b8538fde68" />
+<img width="1366" height="720" alt="Test 1" src="https://github.com/user-attachments/assets/87f39380-c124-465e-baa1-1c006aa5bfca" />
 
 Test 2
 
-<img width="1366" height="720" alt="Test2" src="https://github.com/user-attachments/assets/6085fc89-c511-43f9-b06e-646f87a1ee34" />
+<img width="1366" height="720" alt="Test 2" src="https://github.com/user-attachments/assets/1cc7767b-8853-4f11-bc28-c936f83a0c09" />
